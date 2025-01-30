@@ -1,0 +1,27 @@
+{
+  "name": "mincode",
+  "displayName": "mincode",
+  "description": "a minimal but optimal theme for your code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sarvt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sarvt-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SarvT/mincode.git"
+  },
+  "publisher": "sarvt"
+
+}
