@@ -11,7 +11,9 @@ A sleek and modern **dark but no-dark theme** designed for **developers** who lo
 
 ## 📸 Screenshots
 ### 🖥️ **Code Editor View**
-<!-- ![Editor Preview](images/editor-preview.png) -->
+<!--![Editor Preview](images/editor-preview.png)-->
+![Editor Preview](https://github.com/user-attachments/assets/bbfc26ec-220a-4d0c-bd9c-e4476280e5ff)
+
 
 ### 🏗 **Syntax Highlighting**
 <!-- ![Syntax Preview](images/syntax-preview.png) -->
