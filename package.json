@@ -1,5 +1,6 @@
 {
   "name": "mincode",
+  "icon": "icon.png",
   "displayName": "mincode",
   "description": "a minimal but optimal theme for your code.",
   "version": "0.0.1",
@@ -22,6 +23,8 @@
     "type": "git",
     "url": "https://github.com/SarvT/mincode.git"
   },
-  "publisher": "sarvt"
+  "publisher": "sarvt",
+  "license": "MIT"
+
 
 }
