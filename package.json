@@ -3,7 +3,7 @@
   "icon": "icon.png",
   "displayName": "mincode",
   "description": "a minimal but optimal theme for your code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -25,6 +25,4 @@
   },
   "publisher": "sarvt",
   "license": "MIT"
-
-
 }
