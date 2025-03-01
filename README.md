@@ -1,4 +1,6 @@
 # 🌙 Mincode VS Code Theme
+[Check out!](https://marketplace.visualstudio.com/items?itemName=sarvt.mincode)
+
 
 A sleek and modern **dark but no-dark theme** designed for **developers** who love clean, minimal, and visually pleasing code environments. 🎨✨
 
